@@ -1,0 +1,18 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="Miryalaguda Listings project preview">
+  <rect width="1200" height="800" fill="#111111"/>
+  <rect x="80" y="80" width="1060" height="640" rx="28" fill="#181818" stroke="#303030" stroke-width="2"/>
+  <circle cx="130" cy="125" r="12" fill="#fb7185"/>
+  <circle cx="170" cy="125" r="12" fill="#f5f5f5" opacity="0.45"/>
+  <circle cx="210" cy="125" r="12" fill="#f5f5f5" opacity="0.25"/>
+  <rect x="120" y="190" width="390" height="28" rx="14" fill="#fb7185" opacity="0.9"/>
+  <rect x="120" y="250" width="650" height="24" rx="12" fill="#ffffff" opacity="0.72"/>
+  <rect x="120" y="294" width="560" height="20" rx="10" fill="#ffffff" opacity="0.38"/>
+  <rect x="120" y="350" width="230" height="58" rx="10" fill="#fb7185"/>
+  <rect x="730" y="210" width="260" height="360" rx="22" fill="#242424" stroke="#fb7185" stroke-width="3"/>
+  <rect x="770" y="260" width="180" height="18" rx="9" fill="#ffffff" opacity="0.45"/>
+  <rect x="770" y="312" width="130" height="130" rx="18" fill="#fb7185" opacity="0.8"/>
+  <rect x="770" y="472" width="170" height="16" rx="8" fill="#ffffff" opacity="0.35"/>
+  <rect x="770" y="506" width="120" height="16" rx="8" fill="#ffffff" opacity="0.22"/>
+  <text x="120" y="610" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700">Miryalaguda Listings</text>
+  <text x="120" y="660" fill="#ffffff" opacity="0.55" font-family="Arial, Helvetica, sans-serif" font-size="28">WordPress • Hosting • SEO • Responsive Design</text>
+</svg>
